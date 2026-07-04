@@ -42,7 +42,7 @@
   /* Type scale */
   --fs-body:    1rem;       /* 16px */
   --fs-label:   0.8125rem;  /* 13px */
-  --fs-button:  1.125rem;   /* 18px — meets WCAG large-bold for #e74c3c */
+  --fs-button:  1.25rem;    /* 20px — meets WCAG large-bold (15pt-bold) for #e74c3c */
   --fs-tag:     1.25rem;    /* 20px */
   --fs-title:   clamp(2rem, 7vw, 2.75rem);
 
