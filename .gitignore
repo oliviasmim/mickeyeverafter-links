@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Editors
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Node (in case tooling added later)
+node_modules/
+.npm/
+.yarn/
+
+# Cloudflare
+.wrangler/
+.dev.vars
+
+# Env
+.env
+.env.local
+
+# OS scratch
+Thumbs.db
+desktop.ini
+
+# Tool state
+.kimchi/
